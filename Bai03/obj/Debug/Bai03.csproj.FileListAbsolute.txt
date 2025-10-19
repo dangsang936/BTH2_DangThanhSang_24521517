@@ -1,7 +1,0 @@
-C:\BTH2_DangThanhSang_24521517\Bai03\bin\Debug\Bai03.exe.config
-C:\BTH2_DangThanhSang_24521517\Bai03\bin\Debug\Bai03.exe
-C:\BTH2_DangThanhSang_24521517\Bai03\bin\Debug\Bai03.pdb
-C:\BTH2_DangThanhSang_24521517\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
-C:\BTH2_DangThanhSang_24521517\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
-C:\BTH2_DangThanhSang_24521517\Bai03\obj\Debug\Bai03.exe
-C:\BTH2_DangThanhSang_24521517\Bai03\obj\Debug\Bai03.pdb
