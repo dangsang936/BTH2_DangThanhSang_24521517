@@ -22,5 +22,11 @@ rad.json
 TestResults.xml
 # Visual Studio cache
 .vs/
+<<<<<<< HEAD
 .bin/
 .obj/
+=======
+# Thư mục build
+bin/
+obj/
+>>>>>>> 15561680281ad1ea2815a0b1c4f0b0de72784698
